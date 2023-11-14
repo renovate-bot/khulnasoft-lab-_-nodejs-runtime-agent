@@ -43,7 +43,7 @@
     "tap": "^14.6.1"
   },
   "dependencies": {
-    "acorn": "5.7.4",
+    "acorn": "8.11.2",
     "debug": "^4.3.3",
     "needle": "^2.6.0",
     "semver": "^6.3.0",
